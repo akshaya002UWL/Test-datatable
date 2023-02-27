@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@carbon/react": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
